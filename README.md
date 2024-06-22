@@ -1,0 +1,1 @@
+SMARTA is a mobile application that automates the process of taking attendance using two deep learning models. I have used MTCNN for detection faces and DeepFace for face recognition. The app can not be used yet, i have used NGrok as a tunnel between the app and the code but it still a locolhost operation
